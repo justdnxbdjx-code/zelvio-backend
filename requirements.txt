@@ -4,3 +4,4 @@ pyodbc
 azure-storage-blob
 python-dotenv
 pydantic
+python-multipart
